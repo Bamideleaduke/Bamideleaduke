@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bamideleaduke
-- 🌱 I’m currently learning react javascript
+- 🌱 Software Engineer  
 - 💞️ I’m looking to collaborate on available projects within my capability
 - 📫 How to reach me bamideleaduke@gmail.com
 
